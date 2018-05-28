@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://cdn.tn.com.ar/sites/default/files/styles/1366x765/public/2017/10/27/hacker.jpg);
+}
+
+.main-content {
+    background: #ffffffde;
+    padding: 100px;
+}
+
+.activa_info{
+    cursor: pointer;
+}
